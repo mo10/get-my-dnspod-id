@@ -9,7 +9,7 @@ DNSPOD 查询指定域名ID/记录ID
 
 3.进入CONSOLE选项卡
 
-4.复制本文件全部内容,并粘贴进Console页面内,最后按下Enter键提交代码
+4.复制dnspod.js文件全部内容,并粘贴进Console页面内,最后按下Enter键提交代码
 
 5.在Console内输入 getDomainRecordId("这里填写域名","这里填写主机记录","这里填写记录类型");并回车
 
